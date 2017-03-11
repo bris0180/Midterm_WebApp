@@ -1,0 +1,102 @@
+body{
+    background-color:darkorange;
+}
+
+#header{
+    
+    text-align: center;
+    display: block;
+    padding-top: 90px;
+    font-family: cursive;
+    font-size: 55px;
+}
+
+.tagline{
+    font-family:cursive;
+    font-size: 30px;
+}
+.container{
+    background-color:coral;
+    width: 70%;
+    height: auto;
+}
+
+li{
+    list-style-type: none;
+}
+
+.inputContainer{
+    width:100%;
+    padding:10px;
+    margin: 10px;
+}
+#title{
+    margin-right: 90px;
+    width: 30%;
+}
+#description{
+
+    margin-right: 20px;
+    width: 30%;
+}
+#dueDateCon{
+    
+    margin-right: 220px;
+    width: 30%;
+}
+
+.inputContainer label{
+    
+    font-size: 20px;
+    font-family: cursive;
+    padding-left: 50px;
+}
+
+.taskAdd{
+    margin: 20px;
+}
+
+.taskList{
+    background-color: orangered
+}
+
+.taskItem{
+    padding: 10px;    
+}
+
+
+.taskListFinish{
+    background-color: darkorange;
+    padding: 10px;
+}
+.taskListFinish span{
+    opacity: 0.5;
+
+}
+.taskListFinish strong{
+    opacity: 0.5;
+}
+
+#titleComplete{
+    font-size: 20px;
+    margin: 10px;
+}
+#descriptionComplete{
+    font-size: 20px;
+    margin: 10px;
+}
+
+#dateComplete{
+    font-size: 20px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
